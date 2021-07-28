@@ -1,7 +1,15 @@
 <body>
-<div id="wrapper" class="main wrapper"><div class="inner_column size_large family_lato" id="inner_column" style="min-height: 862px;"><div class="header" id="header"><h1 itemprop="name" class="game_title">Green Ops</h1></div><div class="view_game_page page_widget buy_on_top" itemscope="" itemtype="http://schema.org/Product" id="view_game_page_34141"><div class="header_buy_row"><p>A downloadable game for Windows and Linux</p><div class="buy_row">
+<div id="wrapper" class="main wrapper"><div class="inner_column size_large family_lato" id="inner_column" style="min-height: 862px;"><div class="header" id="header"><h1 itemprop="name" class="game_title">Green Ops</h1></div><div class="view_game_page page_widget buy_on_top" itemscope="" itemtype="http://schema.org/Product" id="view_game_page_34141"><div class="header_buy_row"><p>A downloadable game for Windows and Linux</p>
+https://raspberry-game-dev.itch.io/green-ops
 
-</div></div><div class="columns"><div class="left_col column"><div class="formatted_description user_formatted"><p>Green Ops is based off old school&nbsp;classic shooter games where you have to fight your way from A to B.</p>
+
+<div class="buy_row">
+
+</div></div><div class="columns"><div class="left_col column">
+
+<div class="formatted_description user_formatted">
+<br>
+<p>Green Ops is based off old school&nbsp;classic shooter games where you have to fight your way from A to B.</p>
 <p>Play as a Green Ops member where nothing can stand in your way. Shoot your rifle and throw your grenades to defeat the Red Hats.</p>
 
 <p>The Red Hats are highly trained to take out green ops members so be warned.</p>
